@@ -1,0 +1,5 @@
+C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\Paycompute.Persistence\obj\Debug\netcoreapp3.1\Paycompute.Persistence.csprojAssemblyReference.cache
+C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\Paycompute.Persistence\obj\Debug\netcoreapp3.1\Paycompute.Persistence.AssemblyInfoInputs.cache
+C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\Paycompute.Persistence\obj\Debug\netcoreapp3.1\Paycompute.Persistence.AssemblyInfo.cs
+C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\Paycompute.Persistence\obj\Debug\netcoreapp3.1\Paycompute.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\Paycompute.Persistence\bin\Debug\netcoreapp3.1\Paycompute.Entity.dll
