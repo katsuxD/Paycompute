@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Paycompute.Persistence", ".
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Paycompute.Entity", "..\Paycompute.Entity\Paycompute.Entity.csproj", "{9BB4A54E-3641-4C1B-9F13-6F8B54D213D9}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Paycompute.Services", "..\Paycompute.Services\Paycompute.Services.csproj", "{AD7FB532-B354-4578-A060-9079EDEFC3AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{9BB4A54E-3641-4C1B-9F13-6F8B54D213D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BB4A54E-3641-4C1B-9F13-6F8B54D213D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BB4A54E-3641-4C1B-9F13-6F8B54D213D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD7FB532-B354-4578-A060-9079EDEFC3AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD7FB532-B354-4578-A060-9079EDEFC3AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD7FB532-B354-4578-A060-9079EDEFC3AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD7FB532-B354-4578-A060-9079EDEFC3AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

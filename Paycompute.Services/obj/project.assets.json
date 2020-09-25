@@ -4409,11 +4409,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Khanh Katsu\\Desktop\\PayrollEnterprise\\Paycomputer.Services\\Paycomputer.Services.csproj",
-      "projectName": "Paycomputer.Services",
-      "projectPath": "C:\\Users\\Khanh Katsu\\Desktop\\PayrollEnterprise\\Paycomputer.Services\\Paycomputer.Services.csproj",
+      "projectUniqueName": "C:\\Users\\Khanh Katsu\\Desktop\\PayrollEnterprise\\PaycomputeApp\\Paycompute.Services\\Paycompute.Services.csproj",
+      "projectName": "Paycompute.Services",
+      "projectPath": "C:\\Users\\Khanh Katsu\\Desktop\\PayrollEnterprise\\PaycomputeApp\\Paycompute.Services\\Paycompute.Services.csproj",
       "packagesPath": "C:\\Users\\Khanh Katsu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Khanh Katsu\\Desktop\\PayrollEnterprise\\Paycomputer.Services\\obj\\",
+      "outputPath": "C:\\Users\\Khanh Katsu\\Desktop\\PayrollEnterprise\\PaycomputeApp\\Paycompute.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4432,11 +4432,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Khanh Katsu\\Desktop\\PayrollEnterprise\\Paycompute.Entity\\Paycompute.Entity.csproj": {
-              "projectPath": "C:\\Users\\Khanh Katsu\\Desktop\\PayrollEnterprise\\Paycompute.Entity\\Paycompute.Entity.csproj"
+            "C:\\Users\\Khanh Katsu\\Desktop\\PayrollEnterprise\\PaycomputeApp\\Paycompute.Entity\\Paycompute.Entity.csproj": {
+              "projectPath": "C:\\Users\\Khanh Katsu\\Desktop\\PayrollEnterprise\\PaycomputeApp\\Paycompute.Entity\\Paycompute.Entity.csproj"
             },
-            "C:\\Users\\Khanh Katsu\\Desktop\\PayrollEnterprise\\Paycompute.Persistence\\Paycompute.Persistence.csproj": {
-              "projectPath": "C:\\Users\\Khanh Katsu\\Desktop\\PayrollEnterprise\\Paycompute.Persistence\\Paycompute.Persistence.csproj"
+            "C:\\Users\\Khanh Katsu\\Desktop\\PayrollEnterprise\\PaycomputeApp\\Paycompute.Persistence\\Paycompute.Persistence.csproj": {
+              "projectPath": "C:\\Users\\Khanh Katsu\\Desktop\\PayrollEnterprise\\PaycomputeApp\\Paycompute.Persistence\\Paycompute.Persistence.csproj"
             }
           }
         }

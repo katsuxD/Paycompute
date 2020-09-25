@@ -6,13 +6,13 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.2": {
-      "Paycomputer.Services/1.0.0": {
+      "Paycompute.Services/1.0.0": {
         "dependencies": {
           "Paycompute.Entity": "1.0.0",
           "Paycompute.Persistence": "1.0.0"
         },
         "runtime": {
-          "Paycomputer.Services.dll": {}
+          "Paycompute.Services.dll": {}
         }
       },
       "Microsoft.AspNetCore.Authentication/2.2.0": {
@@ -845,7 +845,7 @@
     }
   },
   "libraries": {
-    "Paycomputer.Services/1.0.0": {
+    "Paycompute.Services/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

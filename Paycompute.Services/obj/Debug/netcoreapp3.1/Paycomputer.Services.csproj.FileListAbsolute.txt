@@ -1,4 +1,0 @@
-C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\Paycomputer.Services\obj\Debug\netcoreapp3.1\Paycomputer.Services.csprojAssemblyReference.cache
-C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\Paycomputer.Services\obj\Debug\netcoreapp3.1\Paycomputer.Services.AssemblyInfoInputs.cache
-C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\Paycomputer.Services\obj\Debug\netcoreapp3.1\Paycomputer.Services.AssemblyInfo.cs
-C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\Paycomputer.Services\obj\Debug\netcoreapp3.1\Paycomputer.Services.csproj.CoreCompileInputs.cache
