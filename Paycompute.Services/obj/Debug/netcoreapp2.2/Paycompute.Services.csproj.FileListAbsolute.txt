@@ -12,13 +12,13 @@ C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\Paycomputer.Services\bin\Debug\ne
 C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\Paycomputer.Services\obj\Debug\netcoreapp2.2\Paycomputer.Services.csproj.CopyComplete
 C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\Paycomputer.Services\obj\Debug\netcoreapp2.2\Paycomputer.Services.dll
 C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\Paycomputer.Services\obj\Debug\netcoreapp2.2\Paycomputer.Services.pdb
+C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\PaycomputeApp\Paycompute.Services\bin\Debug\netcoreapp2.2\Paycompute.Services.deps.json
+C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\PaycomputeApp\Paycompute.Services\bin\Debug\netcoreapp2.2\Paycompute.Services.dll
+C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\PaycomputeApp\Paycompute.Services\bin\Debug\netcoreapp2.2\Paycompute.Services.pdb
 C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\PaycomputeApp\Paycompute.Services\bin\Debug\netcoreapp2.2\Paycompute.Entity.dll
 C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\PaycomputeApp\Paycompute.Services\bin\Debug\netcoreapp2.2\Paycompute.Persistence.dll
 C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\PaycomputeApp\Paycompute.Services\bin\Debug\netcoreapp2.2\Paycompute.Entity.pdb
 C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\PaycomputeApp\Paycompute.Services\bin\Debug\netcoreapp2.2\Paycompute.Persistence.pdb
-C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\PaycomputeApp\Paycompute.Services\bin\Debug\netcoreapp2.2\Paycompute.Services.deps.json
-C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\PaycomputeApp\Paycompute.Services\bin\Debug\netcoreapp2.2\Paycompute.Services.dll
-C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\PaycomputeApp\Paycompute.Services\bin\Debug\netcoreapp2.2\Paycompute.Services.pdb
 C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\PaycomputeApp\Paycompute.Services\obj\Debug\netcoreapp2.2\Paycompute.Services.csprojAssemblyReference.cache
 C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\PaycomputeApp\Paycompute.Services\obj\Debug\netcoreapp2.2\Paycompute.Services.AssemblyInfoInputs.cache
 C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\PaycomputeApp\Paycompute.Services\obj\Debug\netcoreapp2.2\Paycompute.Services.AssemblyInfo.cs

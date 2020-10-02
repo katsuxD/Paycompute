@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace Paycompute.Persistence.Migrations
 {
-    public partial class InitialMigration : Migration
+    public partial class PaycomputeDatabase : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -62,6 +62,7 @@ namespace Paycompute.Persistence.Migrations
                     ImageUrl = table.Column<string>(nullable: true),
                     DOB = table.Column<DateTime>(nullable: false),
                     DateJoined = table.Column<DateTime>(nullable: false),
+                    Phone = table.Column<string>(nullable: true),
                     Designation = table.Column<string>(nullable: true),
                     Email = table.Column<string>(nullable: true),
                     NationalInsuranceNo = table.Column<string>(maxLength: 50, nullable: false),

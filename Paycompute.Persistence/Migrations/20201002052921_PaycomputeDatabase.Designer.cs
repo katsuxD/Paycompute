@@ -10,8 +10,8 @@ using Paycompute.Persistence;
 namespace Paycompute.Persistence.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20200924170552_Initial Migration")]
-    partial class InitialMigration
+    [Migration("20201002052921_PaycomputeDatabase")]
+    partial class PaycomputeDatabase
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -233,6 +233,8 @@ namespace Paycompute.Persistence.Migrations
                         .HasMaxLength(50);
 
                     b.Property<int>("PaymentMethod");
+
+                    b.Property<string>("Phone");
 
                     b.Property<string>("Postcode")
                         .IsRequired()
