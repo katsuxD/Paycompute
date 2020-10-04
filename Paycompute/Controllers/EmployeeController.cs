@@ -11,11 +11,11 @@ using Paycompute.Services;
 
 namespace Paycompute.Controllers
 {
-    public class EmployeeControllers : Controller
+    public class EmployeeController : Controller
     {
         private readonly IEmployeeService _employeeService;
         private readonly HostingEnvironment _hostingEnvironment;
-        public EmployeeControllers(IEmployeeService employeeService, HostingEnvironment hostingEnvironment)
+        public EmployeeController(IEmployeeService employeeService, HostingEnvironment hostingEnvironment)
         {
             _employeeService = employeeService;
             _hostingEnvironment = hostingEnvironment;
@@ -192,5 +192,31 @@ namespace Paycompute.Controllers
             };
             return View();
         }
+        
+        [HttpGet]
+        public IActionResult Delete(int id)
+        {
+            var employee = _employeeService.GetById(id);
+            if (employee == null)
+            {
+                return NotFound();
+            }
+            var model = new EmployeeDeleteViewModel()
+            {
+                Id = employee.Id,
+                FullName = employee.Fullname
+            };
+            return View(model);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Delete(EmployeeDeleteViewModel model)
+        {
+            await _employeeService.Delete(model.Id);
+            return RedirectToAction(nameof(Index));
+        }
     }
+
+
 }
