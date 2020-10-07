@@ -175,7 +175,7 @@ namespace Paycompute.Controllers
             {
                 Id = employee.Id,
                 EmployeeNo = employee.EmployeeNo,
-                Fullname = employee.Fullname,
+                FullName = employee.Fullname,
                 Gender = employee.Gender,
                 DOB = employee.DateJoined,
                 Designation = employee.Designation,
