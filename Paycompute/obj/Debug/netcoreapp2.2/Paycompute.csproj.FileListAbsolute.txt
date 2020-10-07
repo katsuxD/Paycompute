@@ -88,3 +88,4 @@ C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\PaycomputeApp\Paycompute\obj\Debu
 C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\PaycomputeApp\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.pdb
 C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\PaycomputeApp\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.genruntimeconfig.cache
 C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\PaycomputeApp\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Index.cshtml.g.cs
+C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\PaycomputeApp\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Create.cshtml.g.cs
