@@ -190,7 +190,7 @@ namespace Paycompute.Controllers
                 ImageUrl = employee.ImageUrl,
                 Postcode = employee.Postcode
             };
-            return View();
+            return View(model);
         }
         
         [HttpGet]
