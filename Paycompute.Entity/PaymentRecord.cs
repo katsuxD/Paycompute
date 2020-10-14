@@ -11,11 +11,11 @@ namespace Paycompute.Entity
         public int Id { get; set; }
         [ForeignKey("Employee")]
         public int EmployeeId { get; set; }
+        public Employee Employee { get; set; }
         [MaxLength(100)]
-        public Employee Em{ get; set;}
         public string FullName { get; set; }
         public string NiNo { get; set; }
-        public DateTime Paydate { get; set; }
+        public DateTime PayDate { get; set; }
         public string PayMonth { get; set; }
         [ForeignKey("TaxYear")]
         public int TaxYearId { get; set; }
@@ -42,11 +42,13 @@ namespace Paycompute.Entity
         [Column(TypeName = "money")]
         public Nullable<decimal> SLC { get; set; }
         [Column(TypeName = "money")]
-        public decimal TotalEarning { get; set; }
+        public decimal TotalEarnings { get; set; }
         [Column(TypeName = "money")]
         public decimal TotalDeduction { get; set; }
         [Column(TypeName = "money")]
-        public decimal NetpPayment { get; set; }
+        public decimal NetPayment { get; set; }
+
+
 
     }
 }
