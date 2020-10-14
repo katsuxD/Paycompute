@@ -12,6 +12,7 @@ namespace Paycompute.Services.Implementation
     {
         private readonly ApplicationDbContext _context;
         private decimal studentLoanAmount;
+        
 
         public EmployeeService(ApplicationDbContext context) {
             _context = context;
@@ -75,8 +76,9 @@ namespace Paycompute.Services.Implementation
 
         public decimal UnionFees(int id)
         {
-            throw new NotImplementedException();
+            var employee = GetById(id);
+            var fee = employee.UnionMember == UnionMember.Yes ? 10m : 0m;
+            return fee;
         }
-
     }
 }
