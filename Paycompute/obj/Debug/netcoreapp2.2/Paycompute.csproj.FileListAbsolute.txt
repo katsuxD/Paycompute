@@ -94,3 +94,4 @@ C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\PaycomputeApp\Paycompute\obj\Debu
 C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\PaycomputeApp\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Delete.cshtml.g.cs
 C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\PaycomputeApp\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Pay\Index.cshtml.g.cs
 C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\PaycomputeApp\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Pay\Create.cshtml.g.cs
+C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\PaycomputeApp\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Pay\Detail.cshtml.g.cs
