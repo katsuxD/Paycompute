@@ -74,6 +74,7 @@ namespace Paycompute.Controllers
                     Id = model.Id,
                     EmployeeId = model.EmployeeId,
                     FullName = _employeeService.GetById(model.EmployeeId).Fullname,
+                    NiNo = _employeeService.GetById(model.EmployeeId).NationalInsuranceNo,
                     PayDate = model.PayDate,
                     PayMonth = model.PayMonth,
                     TaxYearId = model.TaxYearId,
