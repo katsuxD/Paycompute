@@ -64,7 +64,6 @@ C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\PaycomputeApp\Paycompute\bin\Debu
 C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\PaycomputeApp\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.csprojAssemblyReference.cache
 C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\PaycomputeApp\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.AssemblyInfoInputs.cache
 C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\PaycomputeApp\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.AssemblyInfo.cs
-C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\PaycomputeApp\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.csproj.CoreCompileInputs.cache
 C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\PaycomputeApp\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.RazorAssemblyInfo.cache
 C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\PaycomputeApp\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.RazorAssemblyInfo.cs
 C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\PaycomputeApp\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.TagHelpers.input.cache
@@ -96,3 +95,6 @@ C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\PaycomputeApp\Paycompute\obj\Debu
 C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\PaycomputeApp\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Pay\Create.cshtml.g.cs
 C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\PaycomputeApp\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Pay\Detail.cshtml.g.cs
 C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\PaycomputeApp\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Pay\Payslip.cshtml.g.cs
+C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\PaycomputeApp\Paycompute\bin\Debug\netcoreapp2.2\WkHtmlToPdf\wkhtmltoimage.exe
+C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\PaycomputeApp\Paycompute\bin\Debug\netcoreapp2.2\WkHtmlToPdf\wkhtmltopdf.exe
+C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\PaycomputeApp\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.csproj.CoreCompileInputs.cache
