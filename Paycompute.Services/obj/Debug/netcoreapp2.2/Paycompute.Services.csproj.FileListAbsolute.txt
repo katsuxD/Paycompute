@@ -26,3 +26,17 @@ C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\PaycomputeApp\Paycompute.Services
 C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\PaycomputeApp\Paycompute.Services\obj\Debug\netcoreapp2.2\Paycompute.Services.dll
 C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\PaycomputeApp\Paycompute.Services\obj\Debug\netcoreapp2.2\Paycompute.Services.pdb
 C:\Users\Khanh Katsu\Desktop\PayrollEnterprise\PaycomputeApp\Paycompute.Services\obj\Debug\netcoreapp2.2\Paycompute.Services.csproj.CoreCompileInputs.cache
+C:\Users\Khanh Katsu\Desktop\PayrollEnterprise2\Paycompute\Paycompute.Services\bin\Debug\netcoreapp2.2\Paycompute.Services.deps.json
+C:\Users\Khanh Katsu\Desktop\PayrollEnterprise2\Paycompute\Paycompute.Services\bin\Debug\netcoreapp2.2\Paycompute.Services.dll
+C:\Users\Khanh Katsu\Desktop\PayrollEnterprise2\Paycompute\Paycompute.Services\bin\Debug\netcoreapp2.2\Paycompute.Services.pdb
+C:\Users\Khanh Katsu\Desktop\PayrollEnterprise2\Paycompute\Paycompute.Services\bin\Debug\netcoreapp2.2\Paycompute.Entity.dll
+C:\Users\Khanh Katsu\Desktop\PayrollEnterprise2\Paycompute\Paycompute.Services\bin\Debug\netcoreapp2.2\Paycompute.Persistence.dll
+C:\Users\Khanh Katsu\Desktop\PayrollEnterprise2\Paycompute\Paycompute.Services\bin\Debug\netcoreapp2.2\Paycompute.Entity.pdb
+C:\Users\Khanh Katsu\Desktop\PayrollEnterprise2\Paycompute\Paycompute.Services\bin\Debug\netcoreapp2.2\Paycompute.Persistence.pdb
+C:\Users\Khanh Katsu\Desktop\PayrollEnterprise2\Paycompute\Paycompute.Services\obj\Debug\netcoreapp2.2\Paycompute.Services.csprojAssemblyReference.cache
+C:\Users\Khanh Katsu\Desktop\PayrollEnterprise2\Paycompute\Paycompute.Services\obj\Debug\netcoreapp2.2\Paycompute.Services.AssemblyInfoInputs.cache
+C:\Users\Khanh Katsu\Desktop\PayrollEnterprise2\Paycompute\Paycompute.Services\obj\Debug\netcoreapp2.2\Paycompute.Services.AssemblyInfo.cs
+C:\Users\Khanh Katsu\Desktop\PayrollEnterprise2\Paycompute\Paycompute.Services\obj\Debug\netcoreapp2.2\Paycompute.Services.csproj.CoreCompileInputs.cache
+C:\Users\Khanh Katsu\Desktop\PayrollEnterprise2\Paycompute\Paycompute.Services\obj\Debug\netcoreapp2.2\Paycompute.Services.csproj.CopyComplete
+C:\Users\Khanh Katsu\Desktop\PayrollEnterprise2\Paycompute\Paycompute.Services\obj\Debug\netcoreapp2.2\Paycompute.Services.dll
+C:\Users\Khanh Katsu\Desktop\PayrollEnterprise2\Paycompute\Paycompute.Services\obj\Debug\netcoreapp2.2\Paycompute.Services.pdb
