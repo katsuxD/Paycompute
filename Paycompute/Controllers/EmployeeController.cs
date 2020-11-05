@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Hosting.Internal;
 using Microsoft.AspNetCore.Mvc;
 using Paycompute.Entity;
@@ -11,6 +12,7 @@ using Paycompute.Services;
 
 namespace Paycompute.Controllers
 {
+    [Authorize(Roles = "Admin, Manager")]
     public class EmployeeController : Controller
     {
         private readonly IEmployeeService _employeeService;
@@ -195,6 +197,7 @@ namespace Paycompute.Controllers
         }
         
         [HttpGet]
+        [Authorize(Roles = "Admin")]
         public IActionResult Delete(int id)
         {
             var employee = _employeeService.GetById(id);
@@ -212,6 +215,7 @@ namespace Paycompute.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Delete(EmployeeDeleteViewModel model)
         {
             await _employeeService.Delete(model.Id);
