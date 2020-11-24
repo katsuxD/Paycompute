@@ -1,0 +1,11 @@
+C:\Users\FelixNguyen\Downloads\Paycompute-main\Paycompute.Entity\bin\Release\net5.0\Paycompute.Entity.deps.json
+C:\Users\FelixNguyen\Downloads\Paycompute-main\Paycompute.Entity\bin\Release\net5.0\Paycompute.Entity.dll
+C:\Users\FelixNguyen\Downloads\Paycompute-main\Paycompute.Entity\bin\Release\net5.0\ref\Paycompute.Entity.dll
+C:\Users\FelixNguyen\Downloads\Paycompute-main\Paycompute.Entity\bin\Release\net5.0\Paycompute.Entity.pdb
+C:\Users\FelixNguyen\Downloads\Paycompute-main\Paycompute.Entity\obj\Release\net5.0\Paycompute.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FelixNguyen\Downloads\Paycompute-main\Paycompute.Entity\obj\Release\net5.0\Paycompute.Entity.AssemblyInfoInputs.cache
+C:\Users\FelixNguyen\Downloads\Paycompute-main\Paycompute.Entity\obj\Release\net5.0\Paycompute.Entity.AssemblyInfo.cs
+C:\Users\FelixNguyen\Downloads\Paycompute-main\Paycompute.Entity\obj\Release\net5.0\Paycompute.Entity.csproj.CoreCompileInputs.cache
+C:\Users\FelixNguyen\Downloads\Paycompute-main\Paycompute.Entity\obj\Release\net5.0\Paycompute.Entity.dll
+C:\Users\FelixNguyen\Downloads\Paycompute-main\Paycompute.Entity\obj\Release\net5.0\ref\Paycompute.Entity.dll
+C:\Users\FelixNguyen\Downloads\Paycompute-main\Paycompute.Entity\obj\Release\net5.0\Paycompute.Entity.pdb
