@@ -93,5 +93,10 @@ namespace Paycompute.Services.Implementation
                 Value =emp.Id.ToString()
             });
         }
+        public IEnumerable<Employee> SearchByString(string stringEntered)
+
+        => _context.Employees.Where(emp => emp.FullName.Contains(stringEntered)
+
+        || emp.Gender.Contains(stringEntered) || emp.City.Contains(stringEntered));
     }
 }

@@ -10,3 +10,15 @@ D:\Users\Shinigami\Documents\PaycomputeApp\Paycompute.Entity\obj\Debug\net5.0\Pa
 D:\Users\Shinigami\Documents\PaycomputeApp\Paycompute.Entity\obj\Debug\net5.0\ref\Paycompute.Entity.dll
 D:\Users\Shinigami\Documents\PaycomputeApp\Paycompute.Entity\obj\Debug\net5.0\Paycompute.Entity.pdb
 D:\Users\Shinigami\Documents\PaycomputeApp\Paycompute.Entity\obj\Debug\net5.0\Paycompute.Entity.csprojAssemblyReference.cache
+C:\Users\FelixNguyen\Downloads\Paycompute-main\Paycompute.Entity\bin\Debug\net5.0\Paycompute.Entity.deps.json
+C:\Users\FelixNguyen\Downloads\Paycompute-main\Paycompute.Entity\bin\Debug\net5.0\Paycompute.Entity.dll
+C:\Users\FelixNguyen\Downloads\Paycompute-main\Paycompute.Entity\bin\Debug\net5.0\ref\Paycompute.Entity.dll
+C:\Users\FelixNguyen\Downloads\Paycompute-main\Paycompute.Entity\bin\Debug\net5.0\Paycompute.Entity.pdb
+C:\Users\FelixNguyen\Downloads\Paycompute-main\Paycompute.Entity\obj\Debug\net5.0\Paycompute.Entity.csprojAssemblyReference.cache
+C:\Users\FelixNguyen\Downloads\Paycompute-main\Paycompute.Entity\obj\Debug\net5.0\Paycompute.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FelixNguyen\Downloads\Paycompute-main\Paycompute.Entity\obj\Debug\net5.0\Paycompute.Entity.AssemblyInfoInputs.cache
+C:\Users\FelixNguyen\Downloads\Paycompute-main\Paycompute.Entity\obj\Debug\net5.0\Paycompute.Entity.AssemblyInfo.cs
+C:\Users\FelixNguyen\Downloads\Paycompute-main\Paycompute.Entity\obj\Debug\net5.0\Paycompute.Entity.csproj.CoreCompileInputs.cache
+C:\Users\FelixNguyen\Downloads\Paycompute-main\Paycompute.Entity\obj\Debug\net5.0\Paycompute.Entity.dll
+C:\Users\FelixNguyen\Downloads\Paycompute-main\Paycompute.Entity\obj\Debug\net5.0\ref\Paycompute.Entity.dll
+C:\Users\FelixNguyen\Downloads\Paycompute-main\Paycompute.Entity\obj\Debug\net5.0\Paycompute.Entity.pdb

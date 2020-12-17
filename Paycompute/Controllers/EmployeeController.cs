@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
@@ -22,7 +23,66 @@ namespace Paycompute.Controllers
             _hostingEnvironment = hostingEnvironment;
         }
 
-        public IActionResult Index(int? pageNumber)
+        [Authorize]
+
+        public IActionResult Index(int? pageNumber, string stringEntered)
+
+        {
+
+            IEnumerable<Employee> filteredEmployees;
+
+            ViewData["FilterData"] = stringEntered;
+
+            if (!string.IsNullOrEmpty(stringEntered))
+
+            {
+
+                filteredEmployees = _employeeService.SearchByString(stringEntered);
+
+            }
+
+            else
+
+            {
+
+                filteredEmployees = _employeeService.GetAll();
+
+            }
+
+
+
+            var employees = filteredEmployees.Select(employee => new EmployeeIndexViewModel
+
+            {
+
+                Id = employee.Id,
+
+                EmployeeNo = employee.EmployeeNo,
+
+                ImageUrl = employee.ImageUrl,
+
+                FullName = employee.FullName,
+
+                Gender = employee.Gender,
+
+                Designation = employee.Designation,
+
+                City = employee.City,
+
+                DateJoined = employee.DateJoined
+
+            }).AsEnumerable().ToList();
+
+            int pageSize = 4;
+
+
+
+            return View(EmployeeListPagination<EmployeeIndexViewModel>.Create(employees, pageNumber ?? 1, pageSize));
+
+        }
+
+
+        /*public IActionResult Index(int? pageNumber)
         {
             var employees = _employeeService.GetAll().Select(employee => new EmployeeIndexViewModel
             {
@@ -37,7 +97,7 @@ namespace Paycompute.Controllers
             }).ToList();
             int pageSize = 4;
             return View(EmployeeListPagination<EmployeeIndexViewModel>.Create(employees, pageNumber ?? 1, pageSize) );
-        }
+        }*/
 
         [HttpGet]
         public IActionResult Create()

@@ -23,7 +23,7 @@ namespace Paycompute.Models
         [Display(Name = "Hourly Rate")]
         public decimal HourlyRate { get; set; }
         [Display(Name = "Hours Worked")]
-        public decimal HoursWorked { get; set; }
+        public decimal HoursWorked { get; set; } = 144m;
         [Display(Name = "Contractual Hours")]
         public decimal ContractualHours { get; set; } = 144m;
         public decimal OvertimeHours { get; set; }
